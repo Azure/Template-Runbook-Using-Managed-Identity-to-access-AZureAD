@@ -1,0 +1,10 @@
+{
+    "Author": "Mariusz Rus",
+    "ContentUrl": "https://github.com/Azure/Template-Runbook-Using-Managed-Identity-to-access-AZureAD/blob/main/Template-Runbook%20Using%20Managed%20Identity%20to%20access%20AZureAD.ps1",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Summary": "This runbook provides sample code that allows a runbook to use a managed identity.",
+    "Title": "Template - Runbook accessing AzureAD using Managed Identity"
+    "Url": "https://github.com/Azure/Template-Runbook-Using-Managed-Identity-to-access-AZureAD",
+    "UserTags": "AAD AzureAD ManagedIdentity"
+}
